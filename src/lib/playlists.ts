@@ -142,122 +142,231 @@ export const playlists: Playlist[] = [
   {
     id: 'playlist-2',
     name: 'Afternoon Vibes',
-    startHour: 11, // 2:00 PM
-    startMinute: 15,
+    startHour: 14, // 2:00 PM
+    startMinute: 0,
     tracks: [      
       {
         id: '1',
+        title: 'Santhosh Iron & Laundry Shop',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '2',
         title: 'Chennai Chandrama Ravi Teja - Amma Nanna O Tamil Ammai',
         src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Chennai%20Chandrama%20Ravi%20Teja_%20Asin%20Super%20Hit%20Movie%20Song%20_%20Telugu%20Videos(M4A_128K).m4a',
         duration: 300, // Will be updated dynamically
       },
       {
-        id: '2',
-        title: 'Chakram songs - Oke Oka Mata',
-        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Chennai%20Chandrama%20Ravi%20Teja_%20Asin%20Super%20Hit%20Movie%20Song%20_%20Telugu%20Videos(M4A_128K).m4a',
-        duration: 300, // Will be updated dynamically
-      },
-      {
-        id: '9',
-        title: 'Taal Se Taal Mila _ A.R Rahman ',
-        src: '/audio/Taal Se Taal Mila _ A.R Rahman _ Alka Yagnik _ Udit Narayan _ Taal (1999)(M4A_128K).m4a',
-        duration: 300, // Will be updated dynamically
-      },
-      {
         id: '3',
-        title: 'Edo Priyaragam-Aarya',
-        src: '/audio/Edo Priyaragam Video Song __ Aarya Video Songs __ Allu Arjun_ Anuradha Mehta(M4A_128K).m4a',
+        title: 'Santhosh Iron & Laundry Shop',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
         duration: 300, // Will be updated dynamically
       },
       {
         id: '4',
-        title: 'Hrudhayam - Parugu',
-        src: '/audio/Hrudhayam Full Video Song _ Parugu Video Songs _ Allu Arjun_ Sheela _ Bhaskar _ Mani Sharma(M4A_128K).m4a',
+        title: 'Chakram songs - Oke Oka Mata',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Chakram%20songs%20-%20Oke%20Oka%20Mata%20-%20Prabhas%20Asin%20Charmi(M4A_128K).m4a7',
         duration: 300, // Will be updated dynamically
       },
-     {
+      {
         id: '5',
-        title: 'Violin Song (Girl Just)-Iddarammayilatho',
-        src: '/audio/Iddarammayilatho Video Songs _ Violin Song (Girl Just) Video Song _ Allu Arjun_ Amala Paul(M4A_128K).m4a',
+        title: 'Santhosh Iron & Laundry Shop',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
         duration: 300, // Will be updated dynamically
       },
       {
         id: '6',
-        title: 'Megham Karigenu-Naaga',
-        src: '/audio/Naaga Movie Video Songs __ Megham Karigenu Video Song __ Jr.NTR _ Sada(M4A_128K).m4a',
+        title: 'Taal Se Taal Mila _ A.R Rahman ',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Taal%20Se%20Taal%20Mila%20_%20A.R%20Rahman%20_%20Alka%20Yagnik%20_%20Udit%20Narayan%20_%20Taal%20(1999)(M4A_128K).m4a',
         duration: 300, // Will be updated dynamically
       },
       {
         id: '7',
-        title: 'Nammaka Tappani-Bommarillu Songs',
-        src: '/audio/Nammaka Tappani song with Telugu lyrics _ Bommarillu Songs _ Siddharth_ Genelia _ Maa Paata Mee Nota(M4A_128K).m4a',
+        title: 'Santhosh Iron & Laundry Shop',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
         duration: 300, // Will be updated dynamically
       },
       {
         id: '8',
-        title: 'Nee Kosame-Nuvvu Nenu-',
-        src: '/audio/Nuvvu Nenu Movie __ Nee Kosame Video Song __ Uday Kiran_ Anitha(M4A_128K).m4a',
+        title: 'Edo Priyaragam-Aarya',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Edo%20Priyaragam%20Video%20Song%20__%20Aarya%20Video%20Songs%20__%20Allu%20Arjun_%20Anuradha%20Mehta(M4A_128K).m4a',
         duration: 300, // Will be updated dynamically
-      },],
+      },
+      {
+        id: '9',
+        title: 'Santhosh Iron & Laundry Shop',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '10',
+        title: 'Hrudhayam - Parugu',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Hrudhayam%20Full%20Video%20Song%20_%20Parugu%20Video%20Songs%20_%20Allu%20Arjun_%20Sheela%20_%20Bhaskar%20_%20Mani%20Sharma(M4A_128K).m4a',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '11',
+        title: 'Santhosh Iron & Laundry Shop',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
+        duration: 300, // Will be updated dynamically
+      },
+     {
+        id: '12',
+        title: 'Violin Song (Girl Just)-Iddarammayilatho',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Iddarammayilatho%20Video%20Songs%20_%20Violin%20Song%20(Girl%20Just)%20Video%20Song%20_%20Allu%20Arjun_%20Amala%20Paul(M4A_128K).m4a',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '13',
+        title: 'Santhosh Iron & Laundry Shop',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '14',
+        title: 'Megham Karigenu-Naaga',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Naaga%20Movie%20Video%20Songs%20__%20Megham%20Karigenu%20Video%20Song%20__%20Jr.NTR%20_%20Sada(M4A_128K).m4a',
+        duration: 300, // Will be updated dynamically
+      },
+       {
+        id: '15',
+        title: 'Santhosh Iron & Laundry Shop',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '16',
+        title: 'Nammaka Tappani-Bommarillu Songs',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Nammaka%20Tappani%20song%20with%20Telugu%20lyrics%20_%20Bommarillu%20Songs%20_%20Siddharth_%20Genelia%20_%20Maa%20Paata%20Mee%20Nota(M4A_128K).m4a',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '17',
+        title: 'Santhosh Iron & Laundry Shop',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '18',
+        title: 'Nee Kosame-Nuvvu Nenu-',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Nuvvu%20Nenu%20Movie%20__%20Nee%20Kosame%20Video%20Song%20__%20Uday%20Kiran_%20Anitha(M4A_128K).m4a',
+        duration: 300, // Will be updated dynamically
+      },
+    ],
   },
   {
     id: 'playlist-3',
     name: 'Evening Sessions',
-    startHour: 18, // 7:05 PM
+    startHour: 18, // 7:00 PM
     startMinute: 0,
     tracks: [
       {
         id: '1',
-        title: 'Chennai Chandrama Ravi Teja - Amma Nanna O Tamil Ammai',
-        src: '/audio/Chennai Chandrama Ravi Teja_ Asin Super Hit Movie Song _ Telugu Videos(M4A_128K).m4a',
+        title: 'Santhosh Iron & Laundry Shop',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
         duration: 300, // Will be updated dynamically
       },
       {
         id: '2',
-        title: 'Chakram songs - Oke Oka Mata',
-        src: '/audio/Chakram songs - Oke Oka Mata - Prabhas Asin Charmi(M4A_128K).m4a',
-        duration: 300, // Will be updated dynamically
-      },
-      {
-        id: '9',
-        title: 'Taal Se Taal Mila _ A.R Rahman ',
-        src: '/audio/Taal Se Taal Mila _ A.R Rahman _ Alka Yagnik _ Udit Narayan _ Taal (1999)(M4A_128K).m4a',
+        title: 'Chennai Chandrama Ravi Teja - Amma Nanna O Tamil Ammai',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Chennai%20Chandrama%20Ravi%20Teja_%20Asin%20Super%20Hit%20Movie%20Song%20_%20Telugu%20Videos(M4A_128K).m4a',
         duration: 300, // Will be updated dynamically
       },
       {
         id: '3',
-        title: 'Edo Priyaragam-Aarya',
-        src: '/audio/Edo Priyaragam Video Song __ Aarya Video Songs __ Allu Arjun_ Anuradha Mehta(M4A_128K).m4a',
+        title: 'Santhosh Iron & Laundry Shop',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
         duration: 300, // Will be updated dynamically
       },
       {
         id: '4',
-        title: 'Hrudhayam - Parugu',
-        src: '/audio/Hrudhayam Full Video Song _ Parugu Video Songs _ Allu Arjun_ Sheela _ Bhaskar _ Mani Sharma(M4A_128K).m4a',
+        title: 'Chakram songs - Oke Oka Mata',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Chakram%20songs%20-%20Oke%20Oka%20Mata%20-%20Prabhas%20Asin%20Charmi(M4A_128K).m4a7',
         duration: 300, // Will be updated dynamically
       },
-     {
+      {
         id: '5',
-        title: 'Violin Song (Girl Just)-Iddarammayilatho',
-        src: '/audio/Iddarammayilatho Video Songs _ Violin Song (Girl Just) Video Song _ Allu Arjun_ Amala Paul(M4A_128K).m4a',
+        title: 'Santhosh Iron & Laundry Shop',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
         duration: 300, // Will be updated dynamically
       },
       {
         id: '6',
-        title: 'Megham Karigenu-Naaga',
-        src: '/audio/Naaga Movie Video Songs __ Megham Karigenu Video Song __ Jr.NTR _ Sada(M4A_128K).m4a',
+        title: 'Taal Se Taal Mila _ A.R Rahman ',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Taal%20Se%20Taal%20Mila%20_%20A.R%20Rahman%20_%20Alka%20Yagnik%20_%20Udit%20Narayan%20_%20Taal%20(1999)(M4A_128K).m4a',
         duration: 300, // Will be updated dynamically
       },
       {
         id: '7',
-        title: 'Nammaka Tappani-Bommarillu Songs',
-        src: '/audio/Nammaka Tappani song with Telugu lyrics _ Bommarillu Songs _ Siddharth_ Genelia _ Maa Paata Mee Nota(M4A_128K).m4a',
+        title: 'Santhosh Iron & Laundry Shop',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
         duration: 300, // Will be updated dynamically
       },
       {
         id: '8',
+        title: 'Edo Priyaragam-Aarya',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Edo%20Priyaragam%20Video%20Song%20__%20Aarya%20Video%20Songs%20__%20Allu%20Arjun_%20Anuradha%20Mehta(M4A_128K).m4a',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '9',
+        title: 'Santhosh Iron & Laundry Shop',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '10',
+        title: 'Hrudhayam - Parugu',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Hrudhayam%20Full%20Video%20Song%20_%20Parugu%20Video%20Songs%20_%20Allu%20Arjun_%20Sheela%20_%20Bhaskar%20_%20Mani%20Sharma(M4A_128K).m4a',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '11',
+        title: 'Santhosh Iron & Laundry Shop',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
+        duration: 300, // Will be updated dynamically
+      },
+     {
+        id: '12',
+        title: 'Violin Song (Girl Just)-Iddarammayilatho',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Iddarammayilatho%20Video%20Songs%20_%20Violin%20Song%20(Girl%20Just)%20Video%20Song%20_%20Allu%20Arjun_%20Amala%20Paul(M4A_128K).m4a',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '13',
+        title: 'Santhosh Iron & Laundry Shop',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '14',
+        title: 'Megham Karigenu-Naaga',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Naaga%20Movie%20Video%20Songs%20__%20Megham%20Karigenu%20Video%20Song%20__%20Jr.NTR%20_%20Sada(M4A_128K).m4a',
+        duration: 300, // Will be updated dynamically
+      },
+       {
+        id: '15',
+        title: 'Santhosh Iron & Laundry Shop',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '16',
+        title: 'Nammaka Tappani-Bommarillu Songs',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Nammaka%20Tappani%20song%20with%20Telugu%20lyrics%20_%20Bommarillu%20Songs%20_%20Siddharth_%20Genelia%20_%20Maa%20Paata%20Mee%20Nota(M4A_128K).m4a',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '17',
+        title: 'Santhosh Iron & Laundry Shop',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '18',
         title: 'Nee Kosame-Nuvvu Nenu-',
-        src: '/audio/Nuvvu Nenu Movie __ Nee Kosame Video Song __ Uday Kiran_ Anitha(M4A_128K).m4a',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Nuvvu%20Nenu%20Movie%20__%20Nee%20Kosame%20Video%20Song%20__%20Uday%20Kiran_%20Anitha(M4A_128K).m4a',
         duration: 300, // Will be updated dynamically
       },
       
@@ -271,58 +380,113 @@ export const playlists: Playlist[] = [
     tracks: [      
       {
         id: '1',
-        title: 'Chennai Chandrama Ravi Teja - Amma Nanna O Tamil Ammai',
-        src: '/audio/Chennai Chandrama Ravi Teja_ Asin Super Hit Movie Song _ Telugu Videos(M4A_128K).m4a',
+        title: 'Santhosh Iron & Laundry Shop',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
         duration: 300, // Will be updated dynamically
       },
       {
         id: '2',
-        title: 'Chakram songs - Oke Oka Mata',
-        src: '/audio/Chakram songs - Oke Oka Mata - Prabhas Asin Charmi(M4A_128K).m4a',
-        duration: 300, // Will be updated dynamically
-      },
-      {
-        id: '9',
-        title: 'Taal Se Taal Mila _ A.R Rahman ',
-        src: '/audio/Taal Se Taal Mila _ A.R Rahman _ Alka Yagnik _ Udit Narayan _ Taal (1999)(M4A_128K).m4a',
+        title: 'Chennai Chandrama Ravi Teja - Amma Nanna O Tamil Ammai',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Chennai%20Chandrama%20Ravi%20Teja_%20Asin%20Super%20Hit%20Movie%20Song%20_%20Telugu%20Videos(M4A_128K).m4a',
         duration: 300, // Will be updated dynamically
       },
       {
         id: '3',
-        title: 'Edo Priyaragam-Aarya',
-        src: '/audio/Edo Priyaragam Video Song __ Aarya Video Songs __ Allu Arjun_ Anuradha Mehta(M4A_128K).m4a',
+        title: 'Santhosh Iron & Laundry Shop',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
         duration: 300, // Will be updated dynamically
       },
       {
         id: '4',
-        title: 'Hrudhayam - Parugu',
-        src: '/audio/Hrudhayam Full Video Song _ Parugu Video Songs _ Allu Arjun_ Sheela _ Bhaskar _ Mani Sharma(M4A_128K).m4a',
+        title: 'Chakram songs - Oke Oka Mata',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Chakram%20songs%20-%20Oke%20Oka%20Mata%20-%20Prabhas%20Asin%20Charmi(M4A_128K).m4a7',
         duration: 300, // Will be updated dynamically
       },
-     {
+      {
         id: '5',
-        title: 'Violin Song (Girl Just)-Iddarammayilatho',
-        src: '/audio/Iddarammayilatho Video Songs _ Violin Song (Girl Just) Video Song _ Allu Arjun_ Amala Paul(M4A_128K).m4a',
+        title: 'Santhosh Iron & Laundry Shop',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
         duration: 300, // Will be updated dynamically
       },
       {
         id: '6',
-        title: 'Megham Karigenu-Naaga',
-        src: '/audio/Naaga Movie Video Songs __ Megham Karigenu Video Song __ Jr.NTR _ Sada(M4A_128K).m4a',
+        title: 'Taal Se Taal Mila _ A.R Rahman ',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Taal%20Se%20Taal%20Mila%20_%20A.R%20Rahman%20_%20Alka%20Yagnik%20_%20Udit%20Narayan%20_%20Taal%20(1999)(M4A_128K).m4a',
         duration: 300, // Will be updated dynamically
       },
       {
         id: '7',
-        title: 'Nammaka Tappani-Bommarillu Songs',
-        src: '/audio/Nammaka Tappani song with Telugu lyrics _ Bommarillu Songs _ Siddharth_ Genelia _ Maa Paata Mee Nota(M4A_128K).m4a',
+        title: 'Santhosh Iron & Laundry Shop',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
         duration: 300, // Will be updated dynamically
       },
       {
         id: '8',
-        title: 'Nee Kosame-Nuvvu Nenu-',
-        src: '/audio/Nuvvu Nenu Movie __ Nee Kosame Video Song __ Uday Kiran_ Anitha(M4A_128K).m4a',
+        title: 'Edo Priyaragam-Aarya',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Edo%20Priyaragam%20Video%20Song%20__%20Aarya%20Video%20Songs%20__%20Allu%20Arjun_%20Anuradha%20Mehta(M4A_128K).m4a',
         duration: 300, // Will be updated dynamically
-      },],
+      },
+      {
+        id: '9',
+        title: 'Santhosh Iron & Laundry Shop',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '10',
+        title: 'Hrudhayam - Parugu',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Hrudhayam%20Full%20Video%20Song%20_%20Parugu%20Video%20Songs%20_%20Allu%20Arjun_%20Sheela%20_%20Bhaskar%20_%20Mani%20Sharma(M4A_128K).m4a',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '11',
+        title: 'Santhosh Iron & Laundry Shop',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
+        duration: 300, // Will be updated dynamically
+      },
+     {
+        id: '12',
+        title: 'Violin Song (Girl Just)-Iddarammayilatho',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Iddarammayilatho%20Video%20Songs%20_%20Violin%20Song%20(Girl%20Just)%20Video%20Song%20_%20Allu%20Arjun_%20Amala%20Paul(M4A_128K).m4a',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '13',
+        title: 'Santhosh Iron & Laundry Shop',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '14',
+        title: 'Megham Karigenu-Naaga',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Naaga%20Movie%20Video%20Songs%20__%20Megham%20Karigenu%20Video%20Song%20__%20Jr.NTR%20_%20Sada(M4A_128K).m4a',
+        duration: 300, // Will be updated dynamically
+      },
+       {
+        id: '15',
+        title: 'Santhosh Iron & Laundry Shop',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '16',
+        title: 'Nammaka Tappani-Bommarillu Songs',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Nammaka%20Tappani%20song%20with%20Telugu%20lyrics%20_%20Bommarillu%20Songs%20_%20Siddharth_%20Genelia%20_%20Maa%20Paata%20Mee%20Nota(M4A_128K).m4a',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '17',
+        title: 'Santhosh Iron & Laundry Shop',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '18',
+        title: 'Nee Kosame-Nuvvu Nenu-',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Nuvvu%20Nenu%20Movie%20__%20Nee%20Kosame%20Video%20Song%20__%20Uday%20Kiran_%20Anitha(M4A_128K).m4a',
+        duration: 300, // Will be updated dynamically
+      },
+    ],
   },
 ];
 
