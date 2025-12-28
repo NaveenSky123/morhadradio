@@ -143,7 +143,7 @@ export const playlists: Playlist[] = [
     id: 'playlist-2',
     name: 'Afternoon Vibes',
     startHour: 15, // 2:00 PM
-    startMinute: 15,
+    startMinute: 30,
     tracks: [      
       {
         id: '1',
@@ -259,7 +259,7 @@ export const playlists: Playlist[] = [
     id: 'playlist-3',
     name: 'Evening Sessions',
     startHour: 16, // 7:00 PM
-    startMinute: 30,
+    startMinute: 45,
     tracks: [
       {
         id: '1',
