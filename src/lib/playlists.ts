@@ -87,19 +87,19 @@ export const playlists: Playlist[] = [
   {
     id: 'playlist-2',
     name: 'Afternoon Vibes',
-    startHour: 14, // 2:00 PM
-    startMinute: 0,
+    startHour: 11, // 2:00 PM
+    startMinute: 15,
     tracks: [      
       {
         id: '1',
         title: 'Chennai Chandrama Ravi Teja - Amma Nanna O Tamil Ammai',
-        src: '/audio/Chennai Chandrama Ravi Teja_ Asin Super Hit Movie Song _ Telugu Videos(M4A_128K).m4a',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Chennai%20Chandrama%20Ravi%20Teja_%20Asin%20Super%20Hit%20Movie%20Song%20_%20Telugu%20Videos(M4A_128K).m4a',
         duration: 300, // Will be updated dynamically
       },
       {
         id: '2',
         title: 'Chakram songs - Oke Oka Mata',
-        src: '/audio/Chakram songs - Oke Oka Mata - Prabhas Asin Charmi(M4A_128K).m4a',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Chennai%20Chandrama%20Ravi%20Teja_%20Asin%20Super%20Hit%20Movie%20Song%20_%20Telugu%20Videos(M4A_128K).m4a',
         duration: 300, // Will be updated dynamically
       },
       {
