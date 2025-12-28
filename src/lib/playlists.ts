@@ -32,7 +32,7 @@ export const playlists: Playlist[] = [
       {
         id: '1',
         title: 'Chennai Chandrama Ravi Teja - Amma Nanna O Tamil Ammai',
-        src: '/audio/Chennai Chandrama Ravi Teja_ Asin Super Hit Movie Song _ Telugu Videos(M4A_128K).mp3',
+        src: '/audio/Chennai Chandrama Ravi Teja_ Asin Super Hit Movie Song _ Telugu Videos(M4A_128K).m4a',
         duration: 300, // Will be updated dynamically
       },
       {
@@ -93,7 +93,7 @@ export const playlists: Playlist[] = [
       {
         id: '1',
         title: 'Chennai Chandrama Ravi Teja - Amma Nanna O Tamil Ammai',
-        src: '/audio/Chennai Chandrama Ravi Teja_ Asin Super Hit Movie Song _ Telugu Videos(M4A_128K).mp3',
+        src: '/audio/Chennai Chandrama Ravi Teja_ Asin Super Hit Movie Song _ Telugu Videos(M4A_128K).m4a',
         duration: 300, // Will be updated dynamically
       },
       {
@@ -154,7 +154,7 @@ export const playlists: Playlist[] = [
       {
         id: '1',
         title: 'Chennai Chandrama Ravi Teja - Amma Nanna O Tamil Ammai',
-        src: '/audio/Chennai Chandrama Ravi Teja_ Asin Super Hit Movie Song _ Telugu Videos(M4A_128K).mp3',
+        src: '/audio/Chennai Chandrama Ravi Teja_ Asin Super Hit Movie Song _ Telugu Videos(M4A_128K).m4a',
         duration: 300, // Will be updated dynamically
       },
       {
@@ -217,7 +217,7 @@ export const playlists: Playlist[] = [
       {
         id: '1',
         title: 'Chennai Chandrama Ravi Teja - Amma Nanna O Tamil Ammai',
-        src: '/audio/Chennai Chandrama Ravi Teja_ Asin Super Hit Movie Song _ Telugu Videos(M4A_128K).mp3',
+        src: '/audio/Chennai Chandrama Ravi Teja_ Asin Super Hit Movie Song _ Telugu Videos(M4A_128K).m4a',
         duration: 300, // Will be updated dynamically
       },
       {
