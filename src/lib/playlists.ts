@@ -604,7 +604,6 @@ export const playlists: Playlist[] = [
       },
     ],
   },
-  },
 ];
 
 // Calculate total duration of a playlist in seconds
