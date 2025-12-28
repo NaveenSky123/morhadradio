@@ -32,7 +32,7 @@ export const playlists: Playlist[] = [
       {
         id: '1',
         title: 'Santhosh Iron & Laundry Shop',
-        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Santhosh%20Ad.mp3',
         duration: 300, // Will be updated dynamically
       },
       {
@@ -44,7 +44,7 @@ export const playlists: Playlist[] = [
       {
         id: '3',
         title: 'Santhosh Iron & Laundry Shop',
-        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Santhosh%20Ad.mp3',
         duration: 300, // Will be updated dynamically
       },
       {
@@ -56,7 +56,7 @@ export const playlists: Playlist[] = [
       {
         id: '5',
         title: 'Santhosh Iron & Laundry Shop',
-        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Santhosh%20Ad.mp3',
         duration: 300, // Will be updated dynamically
       },
       {
@@ -68,7 +68,7 @@ export const playlists: Playlist[] = [
       {
         id: '7',
         title: 'Santhosh Iron & Laundry Shop',
-        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Santhosh%20Ad.mp3',
         duration: 300, // Will be updated dynamically
       },
       {
@@ -80,7 +80,7 @@ export const playlists: Playlist[] = [
       {
         id: '9',
         title: 'Santhosh Iron & Laundry Shop',
-        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Santhosh%20Ad.mp3',
         duration: 300, // Will be updated dynamically
       },
       {
@@ -92,7 +92,7 @@ export const playlists: Playlist[] = [
       {
         id: '11',
         title: 'Santhosh Iron & Laundry Shop',
-        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Santhosh%20Ad.mp3',
         duration: 300, // Will be updated dynamically
       },
      {
@@ -104,7 +104,7 @@ export const playlists: Playlist[] = [
       {
         id: '13',
         title: 'Santhosh Iron & Laundry Shop',
-        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Santhosh%20Ad.mp3',
         duration: 300, // Will be updated dynamically
       },
       {
@@ -116,7 +116,7 @@ export const playlists: Playlist[] = [
        {
         id: '15',
         title: 'Santhosh Iron & Laundry Shop',
-        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Santhosh%20Ad.mp3',
         duration: 300, // Will be updated dynamically
       },
       {
@@ -128,7 +128,7 @@ export const playlists: Playlist[] = [
       {
         id: '17',
         title: 'Santhosh Iron & Laundry Shop',
-        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Santhosh%20Ad.mp3',
         duration: 300, // Will be updated dynamically
       },
       {
@@ -381,7 +381,7 @@ export const playlists: Playlist[] = [
       {
         id: '1',
         title: 'Santhosh Iron & Laundry Shop',
-        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Santhosh%20Ad.mp3',
         duration: 300, // Will be updated dynamically
       },
       {
@@ -393,7 +393,7 @@ export const playlists: Playlist[] = [
       {
         id: '3',
         title: 'Santhosh Iron & Laundry Shop',
-        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Santhosh%20Ad.mp3',
         duration: 300, // Will be updated dynamically
       },
       {
@@ -405,7 +405,7 @@ export const playlists: Playlist[] = [
       {
         id: '5',
         title: 'Santhosh Iron & Laundry Shop',
-        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Santhosh%20Ad.mp3',
         duration: 300, // Will be updated dynamically
       },
       {
@@ -417,7 +417,7 @@ export const playlists: Playlist[] = [
       {
         id: '7',
         title: 'Santhosh Iron & Laundry Shop',
-        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Santhosh%20Ad.mp3',
         duration: 300, // Will be updated dynamically
       },
       {
@@ -429,7 +429,7 @@ export const playlists: Playlist[] = [
       {
         id: '9',
         title: 'Santhosh Iron & Laundry Shop',
-        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Santhosh%20Ad.mp3',
         duration: 300, // Will be updated dynamically
       },
       {
@@ -441,7 +441,7 @@ export const playlists: Playlist[] = [
       {
         id: '11',
         title: 'Santhosh Iron & Laundry Shop',
-        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Santhosh%20Ad.mp3',
         duration: 300, // Will be updated dynamically
       },
      {
@@ -453,7 +453,7 @@ export const playlists: Playlist[] = [
       {
         id: '13',
         title: 'Santhosh Iron & Laundry Shop',
-        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Santhosh%20Ad.mp3',
         duration: 300, // Will be updated dynamically
       },
       {
@@ -465,7 +465,7 @@ export const playlists: Playlist[] = [
        {
         id: '15',
         title: 'Santhosh Iron & Laundry Shop',
-        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Santhosh%20Ad.mp3',
         duration: 300, // Will be updated dynamically
       },
       {
@@ -477,7 +477,7 @@ export const playlists: Playlist[] = [
       {
         id: '17',
         title: 'Santhosh Iron & Laundry Shop',
-        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Santhosh%20Ad.mp3',
         duration: 300, // Will be updated dynamically
       },
       {
@@ -497,7 +497,7 @@ export const playlists: Playlist[] = [
       {
         id: '1',
         title: 'Santhosh Iron & Laundry Shop',
-        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Santhosh%20Ad.mp3',
         duration: 300, // Will be updated dynamically
       },
       {
@@ -509,7 +509,7 @@ export const playlists: Playlist[] = [
       {
         id: '3',
         title: 'Santhosh Iron & Laundry Shop',
-        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Santhosh%20Ad.mp3',
         duration: 300, // Will be updated dynamically
       },
       {
@@ -521,7 +521,7 @@ export const playlists: Playlist[] = [
       {
         id: '5',
         title: 'Santhosh Iron & Laundry Shop',
-        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Santhosh%20Ad.mp3',
         duration: 300, // Will be updated dynamically
       },
       {
@@ -533,7 +533,7 @@ export const playlists: Playlist[] = [
       {
         id: '7',
         title: 'Santhosh Iron & Laundry Shop',
-        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Santhosh%20Ad.mp3',
         duration: 300, // Will be updated dynamically
       },
       {
@@ -545,7 +545,7 @@ export const playlists: Playlist[] = [
       {
         id: '9',
         title: 'Santhosh Iron & Laundry Shop',
-        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Santhosh%20Ad.mp3',
         duration: 300, // Will be updated dynamically
       },
       {
@@ -557,7 +557,7 @@ export const playlists: Playlist[] = [
       {
         id: '11',
         title: 'Santhosh Iron & Laundry Shop',
-        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Santhosh%20Ad.mp3',
         duration: 300, // Will be updated dynamically
       },
      {
@@ -569,7 +569,7 @@ export const playlists: Playlist[] = [
       {
         id: '13',
         title: 'Santhosh Iron & Laundry Shop',
-        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Santhosh%20Ad.mp3',
         duration: 300, // Will be updated dynamically
       },
       {
@@ -581,7 +581,7 @@ export const playlists: Playlist[] = [
        {
         id: '15',
         title: 'Santhosh Iron & Laundry Shop',
-        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Santhosh%20Ad.mp3',
         duration: 300, // Will be updated dynamically
       },
       {
@@ -593,7 +593,7 @@ export const playlists: Playlist[] = [
       {
         id: '17',
         title: 'Santhosh Iron & Laundry Shop',
-        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Santhosh%20Ad.mp3',
         duration: 300, // Will be updated dynamically
       },
       {
