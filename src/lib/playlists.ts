@@ -26,8 +26,8 @@ export const playlists: Playlist[] = [
   {
     id: 'playlist-1',
     name: 'Morning Waves',
-    startHour: 12,
-    startMinute: 58,
+    startHour: 20,
+    startMinute: 0,
     tracks: [     
       {
         id: '1',
@@ -142,8 +142,8 @@ export const playlists: Playlist[] = [
   {
     id: 'playlist-2',
     name: 'Afternoon Vibes',
-    startHour: 14, // 2:00 PM
-    startMinute: 0,
+    startHour: 15, // 2:00 PM
+    startMinute: 15,
     tracks: [      
       {
         id: '1',
@@ -258,8 +258,8 @@ export const playlists: Playlist[] = [
   {
     id: 'playlist-3',
     name: 'Evening Sessions',
-    startHour: 18, // 7:00 PM
-    startMinute: 0,
+    startHour: 16, // 7:00 PM
+    startMinute: 30,
     tracks: [
       {
         id: '1',
@@ -375,7 +375,7 @@ export const playlists: Playlist[] = [
   {
     id: 'playlist-4',
     name: 'Night Echoes',
-    startHour: 21, // 9 PM
+    startHour: 18, // 9 PM
     startMinute: 0,
     tracks: [      
       {
@@ -487,6 +487,122 @@ export const playlists: Playlist[] = [
         duration: 300, // Will be updated dynamically
       },
     ],
+    {
+    id: 'playlist-5',
+    name: 'Night Melodies',
+    startHour: 21,
+    startMinute: 30,
+    tracks: [     
+      {
+        id: '1',
+        title: 'Santhosh Iron & Laundry Shop',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '2',
+        title: 'Chennai Chandrama Ravi Teja - Amma Nanna O Tamil Ammai',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Chennai%20Chandrama%20Ravi%20Teja_%20Asin%20Super%20Hit%20Movie%20Song%20_%20Telugu%20Videos(M4A_128K).m4a',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '3',
+        title: 'Santhosh Iron & Laundry Shop',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '4',
+        title: 'Chakram songs - Oke Oka Mata',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Chakram%20songs%20-%20Oke%20Oka%20Mata%20-%20Prabhas%20Asin%20Charmi(M4A_128K).m4a7',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '5',
+        title: 'Santhosh Iron & Laundry Shop',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '6',
+        title: 'Taal Se Taal Mila _ A.R Rahman ',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Taal%20Se%20Taal%20Mila%20_%20A.R%20Rahman%20_%20Alka%20Yagnik%20_%20Udit%20Narayan%20_%20Taal%20(1999)(M4A_128K).m4a',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '7',
+        title: 'Santhosh Iron & Laundry Shop',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '8',
+        title: 'Edo Priyaragam-Aarya',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Edo%20Priyaragam%20Video%20Song%20__%20Aarya%20Video%20Songs%20__%20Allu%20Arjun_%20Anuradha%20Mehta(M4A_128K).m4a',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '9',
+        title: 'Santhosh Iron & Laundry Shop',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '10',
+        title: 'Hrudhayam - Parugu',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Hrudhayam%20Full%20Video%20Song%20_%20Parugu%20Video%20Songs%20_%20Allu%20Arjun_%20Sheela%20_%20Bhaskar%20_%20Mani%20Sharma(M4A_128K).m4a',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '11',
+        title: 'Santhosh Iron & Laundry Shop',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
+        duration: 300, // Will be updated dynamically
+      },
+     {
+        id: '12',
+        title: 'Violin Song (Girl Just)-Iddarammayilatho',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Iddarammayilatho%20Video%20Songs%20_%20Violin%20Song%20(Girl%20Just)%20Video%20Song%20_%20Allu%20Arjun_%20Amala%20Paul(M4A_128K).m4a',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '13',
+        title: 'Santhosh Iron & Laundry Shop',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '14',
+        title: 'Megham Karigenu-Naaga',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Naaga%20Movie%20Video%20Songs%20__%20Megham%20Karigenu%20Video%20Song%20__%20Jr.NTR%20_%20Sada(M4A_128K).m4a',
+        duration: 300, // Will be updated dynamically
+      },
+       {
+        id: '15',
+        title: 'Santhosh Iron & Laundry Shop',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '16',
+        title: 'Nammaka Tappani-Bommarillu Songs',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Nammaka%20Tappani%20song%20with%20Telugu%20lyrics%20_%20Bommarillu%20Songs%20_%20Siddharth_%20Genelia%20_%20Maa%20Paata%20Mee%20Nota(M4A_128K).m4a',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '17',
+        title: 'Santhosh Iron & Laundry Shop',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '18',
+        title: 'Nee Kosame-Nuvvu Nenu-',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Nuvvu%20Nenu%20Movie%20__%20Nee%20Kosame%20Video%20Song%20__%20Uday%20Kiran_%20Anitha(M4A_128K).m4a',
+        duration: 300, // Will be updated dynamically
+      },
+    ],
+  },
   },
 ];
 
