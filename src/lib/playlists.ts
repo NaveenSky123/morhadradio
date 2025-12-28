@@ -19,8 +19,8 @@ export interface Playlist {
 // Playlist definitions with start times
 // Playlist 1: 9:00 AM
 // Playlist 2: 2:00 PM
-// Playlist 3: 6:40 PM (Today's broadcast)
-// Playlist 4: 10:50 PM
+// Playlist 3: 6:00 PM (Today's broadcast)
+// Playlist 4: 9:00 PM
 
 export const playlists: Playlist[] = [
   {
@@ -28,47 +28,246 @@ export const playlists: Playlist[] = [
     name: 'Morning Waves',
     startHour: 9,
     startMinute: 0,
-    tracks: [],
+    tracks: [      
+      {
+        id: '1',
+        title: 'Chennai Chandrama Ravi Teja - Amma Nanna O Tamil Ammai',
+        src: '/audio/Chennai Chandrama Ravi Teja_ Asin Super Hit Movie Song _ Telugu Videos(M4A_128K).mp3',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '2',
+        title: 'Chakram songs - Oke Oka Mata',
+        src: '/audio/Chakram songs - Oke Oka Mata - Prabhas Asin Charmi(M4A_128K).m4a',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '9',
+        title: 'Taal Se Taal Mila _ A.R Rahman ',
+        src: '/audio/Taal Se Taal Mila _ A.R Rahman _ Alka Yagnik _ Udit Narayan _ Taal (1999)(M4A_128K).m4a',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '3',
+        title: 'Edo Priyaragam-Aarya',
+        src: '/audio/Edo Priyaragam Video Song __ Aarya Video Songs __ Allu Arjun_ Anuradha Mehta(M4A_128K).m4a',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '4',
+        title: 'Hrudhayam - Parugu',
+        src: '/audio/Hrudhayam Full Video Song _ Parugu Video Songs _ Allu Arjun_ Sheela _ Bhaskar _ Mani Sharma(M4A_128K).m4a',
+        duration: 300, // Will be updated dynamically
+      },
+     {
+        id: '5',
+        title: 'Violin Song (Girl Just)-Iddarammayilatho',
+        src: '/audio/Iddarammayilatho Video Songs _ Violin Song (Girl Just) Video Song _ Allu Arjun_ Amala Paul(M4A_128K).m4a',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '6',
+        title: 'Megham Karigenu-Naaga',
+        src: '/audio/Naaga Movie Video Songs __ Megham Karigenu Video Song __ Jr.NTR _ Sada(M4A_128K).m4a',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '7',
+        title: 'Nammaka Tappani-Bommarillu Songs',
+        src: '/audio/Nammaka Tappani song with Telugu lyrics _ Bommarillu Songs _ Siddharth_ Genelia _ Maa Paata Mee Nota(M4A_128K).m4a',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '8',
+        title: 'Nee Kosame-Nuvvu Nenu-',
+        src: '/audio/Nuvvu Nenu Movie __ Nee Kosame Video Song __ Uday Kiran_ Anitha(M4A_128K).m4a',
+        duration: 300, // Will be updated dynamically
+      },],
   },
   {
     id: 'playlist-2',
     name: 'Afternoon Vibes',
     startHour: 14, // 2:00 PM
     startMinute: 0,
-    tracks: [],
-  },
-  {
-    id: 'playlist-3',
-    name: 'Evening Sessions',
-    startHour: 19, // 7:05 PM
-    startMinute: 5,
-    tracks: [
+    tracks: [      
       {
         id: '1',
-        title: 'Aarya Nanu',
-        src: '/audio/aarya-nanu-01.mp3',
+        title: 'Chennai Chandrama Ravi Teja - Amma Nanna O Tamil Ammai',
+        src: '/audio/Chennai Chandrama Ravi Teja_ Asin Super Hit Movie Song _ Telugu Videos(M4A_128K).mp3',
         duration: 300, // Will be updated dynamically
       },
       {
         id: '2',
-        title: 'Anjani Tanayya',
-        src: '/audio/anjani-tanayya-13.mp3',
+        title: 'Chakram songs - Oke Oka Mata',
+        src: '/audio/Chakram songs - Oke Oka Mata - Prabhas Asin Charmi(M4A_128K).m4a',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '9',
+        title: 'Taal Se Taal Mila _ A.R Rahman ',
+        src: '/audio/Taal Se Taal Mila _ A.R Rahman _ Alka Yagnik _ Udit Narayan _ Taal (1999)(M4A_128K).m4a',
         duration: 300, // Will be updated dynamically
       },
       {
         id: '3',
-        title: 'Gajavadana Mix',
-        src: '/audio/gajavadana-mix-17.mp3',
+        title: 'Edo Priyaragam-Aarya',
+        src: '/audio/Edo Priyaragam Video Song __ Aarya Video Songs __ Allu Arjun_ Anuradha Mehta(M4A_128K).m4a',
         duration: 300, // Will be updated dynamically
       },
+      {
+        id: '4',
+        title: 'Hrudhayam - Parugu',
+        src: '/audio/Hrudhayam Full Video Song _ Parugu Video Songs _ Allu Arjun_ Sheela _ Bhaskar _ Mani Sharma(M4A_128K).m4a',
+        duration: 300, // Will be updated dynamically
+      },
+     {
+        id: '5',
+        title: 'Violin Song (Girl Just)-Iddarammayilatho',
+        src: '/audio/Iddarammayilatho Video Songs _ Violin Song (Girl Just) Video Song _ Allu Arjun_ Amala Paul(M4A_128K).m4a',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '6',
+        title: 'Megham Karigenu-Naaga',
+        src: '/audio/Naaga Movie Video Songs __ Megham Karigenu Video Song __ Jr.NTR _ Sada(M4A_128K).m4a',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '7',
+        title: 'Nammaka Tappani-Bommarillu Songs',
+        src: '/audio/Nammaka Tappani song with Telugu lyrics _ Bommarillu Songs _ Siddharth_ Genelia _ Maa Paata Mee Nota(M4A_128K).m4a',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '8',
+        title: 'Nee Kosame-Nuvvu Nenu-',
+        src: '/audio/Nuvvu Nenu Movie __ Nee Kosame Video Song __ Uday Kiran_ Anitha(M4A_128K).m4a',
+        duration: 300, // Will be updated dynamically
+      },],
+  },
+  {
+    id: 'playlist-3',
+    name: 'Evening Sessions',
+    startHour: 18, // 7:05 PM
+    startMinute: 0,
+    tracks: [
+      {
+        id: '1',
+        title: 'Chennai Chandrama Ravi Teja - Amma Nanna O Tamil Ammai',
+        src: '/audio/Chennai Chandrama Ravi Teja_ Asin Super Hit Movie Song _ Telugu Videos(M4A_128K).mp3',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '2',
+        title: 'Chakram songs - Oke Oka Mata',
+        src: '/audio/Chakram songs - Oke Oka Mata - Prabhas Asin Charmi(M4A_128K).m4a',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '9',
+        title: 'Taal Se Taal Mila _ A.R Rahman ',
+        src: '/audio/Taal Se Taal Mila _ A.R Rahman _ Alka Yagnik _ Udit Narayan _ Taal (1999)(M4A_128K).m4a',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '3',
+        title: 'Edo Priyaragam-Aarya',
+        src: '/audio/Edo Priyaragam Video Song __ Aarya Video Songs __ Allu Arjun_ Anuradha Mehta(M4A_128K).m4a',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '4',
+        title: 'Hrudhayam - Parugu',
+        src: '/audio/Hrudhayam Full Video Song _ Parugu Video Songs _ Allu Arjun_ Sheela _ Bhaskar _ Mani Sharma(M4A_128K).m4a',
+        duration: 300, // Will be updated dynamically
+      },
+     {
+        id: '5',
+        title: 'Violin Song (Girl Just)-Iddarammayilatho',
+        src: '/audio/Iddarammayilatho Video Songs _ Violin Song (Girl Just) Video Song _ Allu Arjun_ Amala Paul(M4A_128K).m4a',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '6',
+        title: 'Megham Karigenu-Naaga',
+        src: '/audio/Naaga Movie Video Songs __ Megham Karigenu Video Song __ Jr.NTR _ Sada(M4A_128K).m4a',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '7',
+        title: 'Nammaka Tappani-Bommarillu Songs',
+        src: '/audio/Nammaka Tappani song with Telugu lyrics _ Bommarillu Songs _ Siddharth_ Genelia _ Maa Paata Mee Nota(M4A_128K).m4a',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '8',
+        title: 'Nee Kosame-Nuvvu Nenu-',
+        src: '/audio/Nuvvu Nenu Movie __ Nee Kosame Video Song __ Uday Kiran_ Anitha(M4A_128K).m4a',
+        duration: 300, // Will be updated dynamically
+      },
+      
     ],
   },
   {
     id: 'playlist-4',
     name: 'Night Echoes',
-    startHour: 22, // 10:50 PM
-    startMinute: 50,
-    tracks: [],
+    startHour: 21, // 9 PM
+    startMinute: 0,
+    tracks: [      
+      {
+        id: '1',
+        title: 'Chennai Chandrama Ravi Teja - Amma Nanna O Tamil Ammai',
+        src: '/audio/Chennai Chandrama Ravi Teja_ Asin Super Hit Movie Song _ Telugu Videos(M4A_128K).mp3',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '2',
+        title: 'Chakram songs - Oke Oka Mata',
+        src: '/audio/Chakram songs - Oke Oka Mata - Prabhas Asin Charmi(M4A_128K).m4a',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '9',
+        title: 'Taal Se Taal Mila _ A.R Rahman ',
+        src: '/audio/Taal Se Taal Mila _ A.R Rahman _ Alka Yagnik _ Udit Narayan _ Taal (1999)(M4A_128K).m4a',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '3',
+        title: 'Edo Priyaragam-Aarya',
+        src: '/audio/Edo Priyaragam Video Song __ Aarya Video Songs __ Allu Arjun_ Anuradha Mehta(M4A_128K).m4a',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '4',
+        title: 'Hrudhayam - Parugu',
+        src: '/audio/Hrudhayam Full Video Song _ Parugu Video Songs _ Allu Arjun_ Sheela _ Bhaskar _ Mani Sharma(M4A_128K).m4a',
+        duration: 300, // Will be updated dynamically
+      },
+     {
+        id: '5',
+        title: 'Violin Song (Girl Just)-Iddarammayilatho',
+        src: '/audio/Iddarammayilatho Video Songs _ Violin Song (Girl Just) Video Song _ Allu Arjun_ Amala Paul(M4A_128K).m4a',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '6',
+        title: 'Megham Karigenu-Naaga',
+        src: '/audio/Naaga Movie Video Songs __ Megham Karigenu Video Song __ Jr.NTR _ Sada(M4A_128K).m4a',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '7',
+        title: 'Nammaka Tappani-Bommarillu Songs',
+        src: '/audio/Nammaka Tappani song with Telugu lyrics _ Bommarillu Songs _ Siddharth_ Genelia _ Maa Paata Mee Nota(M4A_128K).m4a',
+        duration: 300, // Will be updated dynamically
+      },
+      {
+        id: '8',
+        title: 'Nee Kosame-Nuvvu Nenu-',
+        src: '/audio/Nuvvu Nenu Movie __ Nee Kosame Video Song __ Uday Kiran_ Anitha(M4A_128K).m4a',
+        duration: 300, // Will be updated dynamically
+      },],
   },
 ];
 
