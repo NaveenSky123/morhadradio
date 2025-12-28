@@ -26,9 +26,15 @@ export const playlists: Playlist[] = [
   {
     id: 'playlist-1',
     name: 'Morning Waves',
-    startHour: 11,
-    startMinute: 05,
-    tracks: [      
+    startHour: 12,
+    startMinute: 54,
+    tracks: [     
+      {
+        id: '10',
+        title: 'Santhosh Iron & Laundry Shop',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/santhosh%20adv.mp3',
+        duration: 300, // Will be updated dynamically
+      },
       {
         id: '1',
         title: 'Chennai Chandrama Ravi Teja - Amma Nanna O Tamil Ammai',
