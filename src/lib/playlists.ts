@@ -487,6 +487,7 @@ export const playlists: Playlist[] = [
         duration: 300, // Will be updated dynamically
       },
     ],
+  },
     {
     id: 'playlist-5',
     name: 'Night Melodies',
