@@ -82,7 +82,8 @@ export const playlists: Playlist[] = [
         title: 'Nee Kosame-Nuvvu Nenu-',
         src: '/audio/Nuvvu Nenu Movie __ Nee Kosame Video Song __ Uday Kiran_ Anitha(M4A_128K).m4a',
         duration: 300, // Will be updated dynamically
-      },],
+      },
+    ],
   },
   {
     id: 'playlist-2',
