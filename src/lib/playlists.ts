@@ -166,7 +166,7 @@ export const playlists: Playlist[] = [
       {
         id: '4',
         title: 'Chakram songs - Oke Oka Mata',
-        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Chakram%20songs%20-%20Oke%20Oka%20Mata%20-%20Prabhas%20Asin%20Charmi(M4A_128K).m4a7',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Chakram%20songs%20-%20Oke%20Oka%20Mata%20-%20Prabhas%20Asin%20Charmi(M4A_128K).m4a',
         duration: 300, // Will be updated dynamically
       },
       {
@@ -282,7 +282,7 @@ export const playlists: Playlist[] = [
       {
         id: '4',
         title: 'Chakram songs - Oke Oka Mata',
-        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Chakram%20songs%20-%20Oke%20Oka%20Mata%20-%20Prabhas%20Asin%20Charmi(M4A_128K).m4a7',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Chakram%20songs%20-%20Oke%20Oka%20Mata%20-%20Prabhas%20Asin%20Charmi(M4A_128K).m4a',
         duration: 300, // Will be updated dynamically
       },
       {
@@ -399,7 +399,7 @@ export const playlists: Playlist[] = [
       {
         id: '4',
         title: 'Chakram songs - Oke Oka Mata',
-        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Chakram%20songs%20-%20Oke%20Oka%20Mata%20-%20Prabhas%20Asin%20Charmi(M4A_128K).m4a7',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Chakram%20songs%20-%20Oke%20Oka%20Mata%20-%20Prabhas%20Asin%20Charmi(M4A_128K).m4a',
         duration: 300, // Will be updated dynamically
       },
       {
@@ -515,7 +515,7 @@ export const playlists: Playlist[] = [
       {
         id: '4',
         title: 'Chakram songs - Oke Oka Mata',
-        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Chakram%20songs%20-%20Oke%20Oka%20Mata%20-%20Prabhas%20Asin%20Charmi(M4A_128K).m4a7',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/public/Songs%20for%20Radio/Chakram%20songs%20-%20Oke%20Oka%20Mata%20-%20Prabhas%20Asin%20Charmi(M4A_128K).m4a',
         duration: 300, // Will be updated dynamically
       },
       {
